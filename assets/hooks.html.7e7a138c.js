@@ -1,1 +1,0 @@
-const t={key:"v-2e4c22b2",path:"/react/hooks.html",title:"Hooks",lang:"zh",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"react/hooks.md"};export{t as data};
